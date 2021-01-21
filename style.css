@@ -1,0 +1,25 @@
+
+input{
+    outline: none;
+    border: none;
+    height: 33px;
+    width: 200px;
+    padding: 0 0 0 10px;
+  }
+  body{
+  background-color: #AF1B3F;
+  margin-top: 30px;
+  margin-left: 30px;
+  }
+  button{
+    margin-left: 13px;
+    background-color: #EFC69B;
+    height: 40px;
+    width: 200px;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+  }
+  button:hover {
+    background-color: #E8AF73;
+  }
