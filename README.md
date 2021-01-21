@@ -1,3 +1,4 @@
 # Change-background\
-I created a Javascript app that changes the background colour to other random colours and gives the square and cube of a number.
+a Javascript app that changes the background colour to other random colours and gives the square and cube the input of a number.
+<br>
 [View the project](https://oyelakin-mercy.github.io/Change-background/)
