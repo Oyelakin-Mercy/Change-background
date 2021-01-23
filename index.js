@@ -33,6 +33,6 @@ function random(number) {
 }
 
 btn.onclick = function() {
-  const rndCol = 'rgb(' + random(255) + ',' + random(255) + ',' + random(255) + ')';
+  const rndCol = 'rgb(' + random(255) + ',' + random(255) + ',' + random(200) + ')';
   document.body.style.backgroundColor = rndCol;
 }
